@@ -5,7 +5,8 @@
 
 ### How to install n8n on render.com for free
 
-Follow these steps :
+Follow these steps :  
+
 
 1. Click on the render button above
 2. Choose a blueprint name, for exemple "n8n"
